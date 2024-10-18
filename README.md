@@ -4,3 +4,5 @@ While black-box models are becoming increasingly accurate for prediction problem
 <img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/Guillaume-amann/MScDissertation/blob/main/Tables/Schedule_Database.png)" width="200" />
 
 ![alt text](https://github.com/Guillaume-amann/MScDissertation/blob/main/Tables/Schedule_Database.png = 250x250)
+
+<img src="[https://github.com/favicon.ico](https://github.com/Guillaume-amann/MScDissertation/blob/main/Tables/Schedule_Database.png)" width="48">
