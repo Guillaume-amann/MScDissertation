@@ -15,7 +15,6 @@ The project aims to leverage large datasets from public transport networks to as
 ## Database architecture
 
 <img src="https://github.com/Guillaume-amann/MScDissertation/blob/main/Tables/Schedule_Database.png"  alt="Database Architecture">
-![Schedule_Database](https://github.com/user-attachments/assets/9383be39-f39a-4c7a-97d5-300d4a8cf905)
 
 ## Requirements
 
