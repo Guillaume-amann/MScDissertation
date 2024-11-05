@@ -18,5 +18,8 @@ The project aims to leverage large datasets from public transport networks to as
 
 ## Requirements
 
-* R: Ensure R is installed for executing the Time_units.r script.
+* Synth R package: to install this package, first ensure that devtools is installed with
+
+```install.packages("Synth")```
+
 * GTFS Data: The research uses General Transit Feed Specification (GTFS) data; access to similar data is required for replication or adaptation.
