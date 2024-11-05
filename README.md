@@ -14,12 +14,15 @@ The project aims to leverage large datasets from public transport networks to as
 
 ## Database architecture
 
-![alt text](https://github.com/Guillaume-amann/MScDissertation/blob/main/Tables/Schedule_Database.png)
+<img src="https://github.com/Guillaume-amann/MScDissertation/blob/main/Tables/Schedule_Database.png"  alt="Database Architecture">
+![Schedule_Database](https://github.com/user-attachments/assets/9383be39-f39a-4c7a-97d5-300d4a8cf905 width="500")
 
 ## Requirements
 
 * Synth R package: to install this package, first ensure that devtools is installed with
 
-```install.packages("Synth")```
+```
+install.packages("Synth")
+```
 
 * GTFS Data: The research uses General Transit Feed Specification (GTFS) data; access to similar data is required for replication or adaptation.
